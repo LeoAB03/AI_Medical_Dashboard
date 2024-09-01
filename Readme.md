@@ -85,7 +85,7 @@ This project is a comprehensive medical dashboard that integrates AI-powered too
 - **Symptom-based Disease Diagnosis**: Provides probable disease diagnoses based on user-reported symptoms.
 - **Sleep Tracking**: Monitors and analyzes sleep patterns to provide insights into sleep quality and suggestions for improvement.
 - **Interactive Dashboard**: A user-friendly interface that presents medical data, AI analysis results, and personal health metrics in a clear and concise manner.
-![Screenshot (239)](code\assets\bcground.png)
+![Screenshot (240)]([code\assets\bcground.png](https://github.com/LeoAB03/SIH_INTERNAL_ROUND_1_RISE/blob/main/code/assets/bcground.png))
 ## Technology Stack
 
 - **Frontend**: React.js

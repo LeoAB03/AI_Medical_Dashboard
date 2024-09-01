@@ -22,7 +22,7 @@ This README provides an overview of the project, including team details, relevan
 - *Internal Presentation:* [Internal Presentation](https://github.com/LeoAB03/SIH_INTERNAL_ROUND_1_RISE/blob/main/files/Internal_PPT_RISE.pdf)
 - *Final SIH Presentation:* [Final SIH Presentation](https://github.com/LeoAB03/SIH_INTERNAL_ROUND_1_RISE/blob/main/files/SIH_PPT_RISE.pdf)
 - *Video Demonstration:* [Watch Video](https://youtu.be/1hkT1awinJo?si=4tuUg5z-b6qb2pr4)
-- *Live Deployment:* [View Deployment](DEPLOYED LINK IF ANY)
+- *Live Deployment:* Deploy it Locally
 - *Source Code:* [GitHub Repository](https://github.com/LeoAB03/SIH_INTERNAL_ROUND_1_RISE)
 - *Additional Resources:* [Other Relevant Links](https://github.com/Krishsh93/healthcare)
 

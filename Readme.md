@@ -26,7 +26,7 @@ This README provides an overview of the project, including team details, relevan
 - *Source Code:* [GitHub Repository](https://github.com/LeoAB03/SIH_INTERNAL_ROUND_1_RISE)
 - *Additional Resources:* [Other Relevant Links](https://github.com/Krishsh93/healthcare)
 
-# E-Health-Management-System
+# AI- Medical Dashboard
 
 ## Implementation of Features
 
@@ -36,14 +36,6 @@ framework is used to build the front-end of the application, ensuring a responsi
 interface. The user can easily navigate through different sections of the application, such as viewing
 medical records, scheduling appointments, and communicating with healthcare providers.
 ![Screenshot (238)](https://github.com/MrSagarBiswas/E-Health-Management-System/assets/58793583/260b5ee7-151d-4980-8a4c-7161d43bad37)
-
-
-### RozarPay API Integration:
-To facilitate direct payment of hospital bills by insurance companies, the e-Health Management System
-integrates the RozarPay API. This integration allows insurance companies to make payments directly
-through the system, streamlining the billing and payment process. The API provides secure and reliable
-payment processing, ensuring smooth transactions between the system and the insurance companies.
-![Screenshot_20230525_125647](https://github.com/MrSagarBiswas/E-Health-Management-System/assets/58793583/fb79f1c0-6ade-4866-b50c-a58b25ee6e3b)
 
 
 ### Real-Time Communication with Chat Engine:

@@ -11,9 +11,9 @@ This README provides an overview of the project, including team details, relevan
 *Team Members:*
 
 - *Abhigyan Bhardwaj* - 2022UMV7630 - [@LeoAB03](https://github.com/LeoAB03)
-- *Ayush Kumar* - 2022UMV7644 - [@USERNAME](https://github.com/USERNAME)
+- *Ayush Kumar* - 2022UMV7644 - [@ak35Ayush](https://github.com/ak35Ayush)
 - *Ayush Jain* - 2022UEA6548 - [@ayush14189](https://github.com/ayush14189)
-- *Aishwina Nainwal* - 2023UEC2605 - [@USERNAME](https://github.com/USERNAME)
+- *Aishwina Nainwal* - 2023UEC2605 - [@AishwinaNainwal](https://github.com/AishwinaNainwal)
 - *Krish Sharma* - 2022UEA6506 - [@Krishsh93](https://github.com/Krishsh93)
 - *Ankit Sneh* - 2022UEA7618 - [@ENDOMINOUSANK](https://github.com/ENDOMINOUSANK)
 

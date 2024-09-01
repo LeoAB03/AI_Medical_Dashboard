@@ -25,3 +25,7 @@ This README provides an overview of the project, including team details, relevan
 - *Live Deployment:* [View Deployment](DEPLOYED LINK IF ANY)
 - *Source Code:* [GitHub Repository](GITHUB LINK TO THE REPO)
 - *Additional Resources:* [Other Relevant Links](ANY OTHER RELEVANT LINKS)
+
+
+## Steps to run the Project Locally
+*Chatbot powered by Medical Dataset*

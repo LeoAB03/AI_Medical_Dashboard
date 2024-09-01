@@ -36,7 +36,7 @@ This project implements a chatbot powered by a medical dataset. The chatbot is d
 
 - **Medical Knowledge**: The chatbot is trained on a comprehensive medical dataset, allowing it to answer a wide range of medical questions.
 - **Interactive Conversations**: The bot engages users in meaningful conversations, helping them find the information they need.
-- **Local Deployment**: Run the chatbot on your local machine, providing a private and secure environment for interactions.
+- **Local Deployment**: **It needs Money to host the Chatbot on Heruko that's why we are going for local deployment.** Run the chatbot on your local machine, providing a private and secure environment for interactions.
 
 ## Prerequisites
 

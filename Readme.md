@@ -27,5 +27,75 @@ This README provides an overview of the project, including team details, relevan
 - *Additional Resources:* [Other Relevant Links](ANY OTHER RELEVANT LINKS)
 
 
-## Steps to run the Project Locally
-*Chatbot powered by Medical Dataset*
+
+# Medical Chatbot
+
+This project implements a chatbot powered by a medical dataset. The chatbot is designed to provide medical information and assistance based on the data it has been trained on. It is a conversational AI that interacts with users, answering their medical queries and guiding them based on the knowledge embedded in the dataset.
+
+## Features
+
+- **Medical Knowledge**: The chatbot is trained on a comprehensive medical dataset, allowing it to answer a wide range of medical questions.
+- **Interactive Conversations**: The bot engages users in meaningful conversations, helping them find the information they need.
+- **Local Deployment**: Run the chatbot on your local machine, providing a private and secure environment for interactions.
+
+## Prerequisites
+
+Before running the project locally, ensure you have the following installed on your machine:
+
+- Python 3.7 or later
+- Virtualenv (optional but recommended)
+- Git
+
+## Steps to Run the Project Locally
+
+### 1. Clone the Repository
+
+First, clone the repository to your local machine using Git:
+
+```bash
+git clone https://github.com/LeoAB03/AI-MODEL.git
+cd RAG
+```
+
+### 2. Set Up a Virtual Environment (Optional)
+
+It is recommended to use a virtual environment to manage your dependencies. You can create and activate a virtual environment using the following commands:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
+
+### 3. Install Dependencies
+
+Install the required Python packages by running:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Set Up the Dataset
+
+Place the medical dataset in the appropriate directory (e.g., `data/`). Ensure that the dataset is properly formatted and ready for use by the chatbot.
+
+### 5. Run the Chatbot
+
+You can start the chatbot by running the main script:
+
+```bash
+python app.py
+```
+
+This will launch the chatbot, and you can interact with it through the terminal or a web interface, depending on how it's set up in `main.py`.
+
+### 6. Access the Chatbot
+
+If the chatbot is running through a web interface, open your browser and navigate to the local server address (usually `http://127.0.0.1:8000/`).
+
+### 7. Deactivate the Virtual Environment (Optional)
+
+After you're done, you can deactivate the virtual environment with:
+
+```bash
+deactivate
+```

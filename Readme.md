@@ -31,20 +31,16 @@ This README provides an overview of the project, including team details, relevan
 ## Implementation of Features
 
 ### User-Friendly Platform for Medical Treatment:
-The e-Health Management System provides a user-friendly platform for medical treatment. The ReactJS
+It provides a user-friendly platform for medical treatment. The ReactJS
 framework is used to build the front-end of the application, ensuring a responsive and intuitive user
 interface. The user can easily navigate through different sections of the application, such as viewing
 medical records, scheduling appointments, and communicating with healthcare providers.
-![Screenshot (238)](https://github.com/MrSagarBiswas/E-Health-Management-System/assets/58793583/260b5ee7-151d-4980-8a4c-7161d43bad37)
+<img src="code/assets/landing.jpg" alt="Chatbot Screenshot" width="1200"/>
 
 
-### Real-Time Communication with Chat Engine:
-The e-Health Management System incorporates a Chat Engine to enable real-time communication
-between healthcare providers and patients. This feature allows users to chat with doctors, nurses, or
-other healthcare professionals, eliminating the need for physical visits in certain cases. The Chat Engine
-ensures secure and private conversations, enhancing the overall patient experience and reducing
-response time for medical queries.
-![Screenshot (241)](https://github.com/MrSagarBiswas/E-Health-Management-System/assets/58793583/ba333ec2-58ee-4e6b-8006-ca723adce959)
+### Real-Time Communication with Health Updates:
+It incorporates real time updates on the Health of a patient using different parameters such as glasses of waters or sleeping time
+<img src="code/assets/patientlist.jpg" alt="Chatbot Screenshot" width="1200"/>
 
 
 ### Efficient Management of Patient Data and Medical Records:
@@ -54,20 +50,14 @@ medical history, diagnosis reports, and treatment details, are stored in a struc
 manner, ensuring easy access and retrieval. The utilization of MongoDB and Mongoose enables fast and
 efficient querying of patient data, providing healthcare providers with the necessary information for
 effective decision-making.
-![Screenshot (239)](https://github.com/MrSagarBiswas/E-Health-Management-System/assets/58793583/aa5be4c6-05e4-41ff-a922-a29e6414647b)
+<img src="code/assets/doctordash.jpg" alt="Chatbot Screenshot" width="1200"/>
 
 
-### Online Payment Interface for Booking Appointments:
-The e-Health Management System includes an online payment interface that allows users to book
-appointments directly through the system. Patients can select their preferred healthcare provider, choose
-an available time slot, and make the payment securely within the application. This feature eliminates the
-need for manual booking and payment processes, enhancing convenience for both patients and
-healthcare providers.
 
 This project is a comprehensive medical dashboard that integrates AI-powered tools to assist in various healthcare tasks. The dashboard provides functionalities for detecting brain hemorrhage, diagnosing diseases from blood samples and symptoms, and tracking sleep patterns. The project is built with a modern tech stack, utilizing React for the frontend, Node.js for the backend, and Flask to host AI models trained on PyTorch and Keras.
 
 ## AI - Models
-
+<img src="code/assets/hemorage.jpg" alt="Chatbot Screenshot" width="1200"/>
 - **Brain Hemorrhage Detection**: AI-powered tool that analyzes medical images to detect signs of brain hemorrhage.
 - **Disease Detection from Blood Samples**: Analyzes blood sample data to diagnose potential diseases using advanced machine learning models.
 - **Symptom-based Disease Diagnosis**: Provides probable disease diagnoses based on user-reported symptoms.

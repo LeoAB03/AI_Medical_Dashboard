@@ -58,11 +58,11 @@ This project is a comprehensive medical dashboard that integrates AI-powered too
 
 ## AI - Models
 <img src="code/assets/heomrage.jpg" alt="Chatbot Screenshot" width="1200"/>
-- *Brain Hemorrhage Detection*: AI-powered tool that analyzes medical images to detect signs of brain hemorrhage.
-- *Disease Detection from Blood Samples*: Analyzes blood sample data to diagnose potential diseases using advanced machine learning models.
-- *Symptom-based Disease Diagnosis*: Provides probable disease diagnoses based on user-reported symptoms.
-- *Sleep Tracking*: Monitors and analyzes sleep patterns to provide insights into sleep quality and suggestions for improvement.
-- *Interactive Dashboard*: A user-friendly interface that presents medical data, AI analysis results, and personal health metrics in a clear and concise manner.
+-*Brain Hemorrhage Detection*: AI-powered tool that analyzes medical images to detect signs of brain hemorrhage.
+-*Disease Detection from Blood Samples*: Analyzes blood sample data to diagnose potential diseases using advanced machine learning models.
+-*Symptom-based Disease Diagnosis*: Provides probable disease diagnoses based on user-reported symptoms.
+-*Sleep Tracking*: Monitors and analyzes sleep patterns to provide insights into sleep quality and suggestions for improvement.
+-*Interactive Dashboard*: A user-friendly interface that presents medical data, AI analysis results, and personal health metrics in a clear and concise manner.
 <img src="code/assets/bcground.png" alt="Chatbot Screenshot" width="1200"/>
 
 ## Technology Stack

@@ -19,16 +19,12 @@ This README provides an overview of the project, including team details, relevan
 
 ## Project Links
 
-- *Internal Presentation:* [Internal Presentation](URL TO PPT UPLOADED TO GITHUB)
-- *Final SIH Presentation:* [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
-- *Video Demonstration:* [Watch Video](UNLISTED YOUTUBE LINK)
+- *Internal Presentation:* [Internal Presentation](https://github.com/LeoAB03/SIH_INTERNAL_ROUND_1_RISE/blob/main/files/Internal_PPT_RISE.pdf)
+- *Final SIH Presentation:* [Final SIH Presentation](https://github.com/LeoAB03/SIH_INTERNAL_ROUND_1_RISE/blob/main/files/SIH_PPT_RISE.pdf)
+- *Video Demonstration:* [Watch Video](https://youtu.be/1hkT1awinJo?si=4tuUg5z-b6qb2pr4)
 - *Live Deployment:* [View Deployment](DEPLOYED LINK IF ANY)
-- *Source Code:* [GitHub Repository](GITHUB LINK TO THE REPO)
-- *Additional Resources:* [Other Relevant Links](ANY OTHER RELEVANT LINKS)
-
-Here’s a `README.md` for your medical dashboard project:
-
----
+- *Source Code:* [GitHub Repository](https://github.com/LeoAB03/SIH_INTERNAL_ROUND_1_RISE)
+- *Additional Resources:* [Other Relevant Links](https://github.com/Krishsh93/healthcare)
 
 # E-Health-Management-System
 

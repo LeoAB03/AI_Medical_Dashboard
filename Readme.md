@@ -26,7 +26,7 @@ This README provides an overview of the project, including team details, relevan
 - *Source Code:* [GitHub Repository](https://github.com/LeoAB03/SIH_INTERNAL_ROUND_1_RISE)
 - *Additional Resources:* [Other Relevant Links](https://github.com/Krishsh93/healthcare)
 
-# AI- Medical Dashboard
+# AI-Enhanced Medical Diagnostics System
 
 ## Implementation of Features
 

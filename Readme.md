@@ -171,6 +171,26 @@ Before running the project locally, ensure you have the following installed on y
 - Python 3.7 or later
 - Virtualenv (optional but recommended)
 - Git
+- [Ollama](https://ollama.com/library/medllama2)
+
+## Ollama install 
+
+Please ensure that you have free disk space as the file is of 5.9GB
+### 1. Open terminal
+Type in the following code 
+```bash
+ollama pull medllama2
+```
+
+### 2. Run the NLP
+```bash
+ollama run medllama2
+```
+
+### 3. Start the server for Local runnning
+```bash
+ollama serve
+```
 
 ## Steps to Run the Project Locally
 

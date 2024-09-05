@@ -87,18 +87,71 @@ Before running the project locally, ensure you have the following installed on y
 
 ## Installation and Setup
 
-1.	Git clone https://github.com/Krishsh93/healthcare
-2.	cd code/healthcare-master
-3.	cd backend
-4.	npm install
-5.	npm run dev
-6.	new terminal for Flask api
-7.	cd flask-api
-8.	pip install 
-9.	new terminal for frontend
-10.	cd E-HEALTH-MANAGEMENT-SYSTEM\frontend
-11.	npm install
-12.	npm start
+### 1. *Clone the Repository*
+
+   ```bash
+   git clone https://github.com/LeoAB03/SIH_INTERNAL_ROUND_1_RISE
+   cd code/healthcare-master
+   ```
+   
+### 2. *Set Up Environment Variables*
+
+   Create a ```.env``` file in the root directory and add the following variables:
+
+   ``` bash
+   MONGO_URI=<your-mongodb-connection-string>
+   PORT=5000 # or any port number of your choice
+   ```
+   
+### 3. *Install Server Dependencies*
+
+- Navigate to the backend (or server) directory and run:
+
+   ```bash
+   cd backend
+   npm install
+   ```
+   
+- For the Flask API:
+
+   ```bash
+  cd flask-api
+   pip install
+  ```
+   
+
+### 4. *Run the Server*
+
+   Start the backend server:
+
+   ```bash
+   npm run dev
+   ```
+
+   This command will run the server using ```nodemon``` (if configured) and listen on the port defined in your ```.env``` file.
+
+### 5. *Install Client Dependencies*
+
+   Open a new terminal window, navigate to the frontend (or client) directory, and run:
+
+   ```bash
+   cd frontend
+   npm install
+   ```
+
+### 6. *Run the Client*
+
+   Start the React client:
+
+   ```bash
+   npm start
+   ```
+   
+   This command will run the React app on ```http://localhost:3000``` by default.
+
+### 7. *Open in Browser*
+
+   Open your web browser and go to ```http://localhost:3000``` to see the application running locally.
 
 
 # Medical Chatbot
@@ -126,7 +179,7 @@ Before running the project locally, ensure you have the following installed on y
 First, clone the repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/LeoAB03/AI-MODEL.git
+git clone https://github.com/LeoAB03/SIH_INTERNAL_ROUND_1_RISE/AI-MODEL-main.git
 cd RAG
 ```
 
